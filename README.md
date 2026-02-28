@@ -1,2 +1,2 @@
 # Feb27-Asynch
-Bayesian Parts. I used Google CoLab to use Python.
+Bayesian Parts. I used Google Colab to use Python.
